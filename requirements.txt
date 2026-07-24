@@ -1,0 +1,31 @@
+# 🔓 DECRYPTION_SCRIPTS
+
+> **Public Python toolkit to decrypt configs from popular Android tunneling apps**  
+> HTTP Injector • NPV Tunnel • HTTP Custom • Dark Tunnel • SSC Custom
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Channel](https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram)](https://t.me/habibidecodez)
+
+**📢 Official Channel:** [t.me/habibidecodez](https://t.me/habibidecodez)
+
+---
+
+## 👥 Script Authors
+
+| Author | Telegram |
+|--------|----------|
+| HABIBI | [@HABIBI_1ST](https://t.me/HABIBI_1ST) |
+| NullptrO | [@NullptrO](https://t.me/NullptrO) |
+
+**🤝 Contributors & Admins:**  
+[@YouKnowA9](https://t.me/YouKnowA9) • [@forjad0](https://t.me/forjad0)
+
+---
+
+## 🧰 Requirements
+
+Install all dependencies with a single command:
+
+```bash
+pip install pycryptodome argon2-cffi msgpack
